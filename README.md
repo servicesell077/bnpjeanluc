@@ -1,2 +1,0 @@
-# bnpjeanluc
-service en ligne
